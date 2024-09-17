@@ -29,10 +29,10 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 ## 🌟 Wireframes
 
 <p align="center">
-  <img src="assets/wireframe_1.png" alt="Wireframe_1" width="200">
-  <img src="assets/wireframe_2.png" alt="Wireframe_2" width="200">
-  <img src="assets/wireframe_3.png" alt="Wireframe_3" width="200">
-  <img src="assets/wireframe_4.png" alt="Wireframe_4" width="200">
+  <img src="assets/wireframe_1.png" alt="Wireframe_1" height="400">
+  <img src="assets/wireframe_2.png" alt="Wireframe_2" height="400">
+  <img src="assets/wireframe_3.png" alt="Wireframe_3" height="400">
+  <img src="assets/wireframe_4.png" alt="Wireframe_4" height="400">
 </p>
 
 ## 🌟 Style
