@@ -9,14 +9,18 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 ## 🚀 Understanding the Problem
 ## 🌟 Fonctionnalities
 ## 💡 Research & Analysis
+
 ## 📫 Personsas
-### Persona: [Thomas Bouchard]
+### Thomas Bouchard
+<p align="center">
+  <img src="assets/persona1.png" alt="Persona_1" height="500">
+</p>
 
-![Persona_1](assets/persona1.png)
+### Aiko Sato
+<p align="center">
+  <img src="assets/persona2.png" alt="Persona_2" height="500">
+</p
 
-### Persona: [Aiko Sato]
-
-![Persona_2](assets/persona2.png)
 
 ## 🌟 User Journey
 ## 🌟 Story Board
