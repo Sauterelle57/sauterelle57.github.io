@@ -16,11 +16,11 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 
 ### Persona: [Persona Name]
 
-![Persona_1](assets/persona1_soen357.png)
+![Persona_1](assets/persona1.png)
 
 ### Persona: [Persona Name]
 
-![Persona_2](assets/persona2_soen357.png)
+![Persona_2](assets/persona2.png)
 
 ## 🌟 User Journey
 ## 🌟 Story Board
