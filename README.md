@@ -10,15 +10,11 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 ## 🌟 Fonctionnalities
 ## 💡 Research & Analysis
 ## 📫 Personsas
-### Persona: [Persona Name]
-
-![Persona Banner](https://via.placeholder.com/1200x400.png?text=Persona+Name) <!-- Banner image -->
-
-### Persona: [Persona Name]
+### Persona: [Thomas Bouchard]
 
 ![Persona_1](assets/persona1.png)
 
-### Persona: [Persona Name]
+### Persona: [Aiko Sato]
 
 ![Persona_2](assets/persona2.png)
 
@@ -27,6 +23,12 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 ## 🌟 Sketches
 ## 🌟 User Flow
 ## 🌟 Wireframes
+
+![Wireframe_1](assets/wireframe_1.png)
+![Wireframe_2](assets/wireframe_2.png)
+![Wireframe_3](assets/wireframe_3.png)
+![Wireframe_4](assets/wireframe_4.png)
+
 ## 🌟 Style
 ## 🌟 Final Result
 ## 🌟 Conclusion
