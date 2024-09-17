@@ -13,13 +13,13 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 ## 📫 Personsas
 ### Thomas Bouchard
 <p align="center">
-  <img src="assets/persona1.png" alt="Persona_1" height="500">
+  <img src="assets/persona1.png" alt="Persona_1" height="600">
 </p>
 
 ### Aiko Sato
 <p align="center">
-  <img src="assets/persona2.png" alt="Persona_2" height="500">
-</p
+  <img src="assets/persona2.png" alt="Persona_2" height="600">
+</p>
 
 
 ## 🌟 User Journey
