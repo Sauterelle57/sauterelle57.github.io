@@ -25,12 +25,12 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 ## 🌟 Empathize Map
 ### Thomas Bouchard
 <p align="center">
-  <img src="assets/empathize_map_1.jpg" alt="Empathize_Map_1" height="500">
+  <img src="assets/empathize_map_1.jpg" alt="Empathize_Map_1" height="200">
 </p>
 
 ### Aiko Saito
 <p align="center">
-  <img src="assets/empathize_map_1.jpg" alt="Empathize_Map_1" height="500">
+  <img src="assets/empathize_map_2.jpg" alt="Empathize_Map_2" height="200">
 </p>
 
 
