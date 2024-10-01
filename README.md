@@ -50,10 +50,10 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 ## 🌟 Style
 ### Inspiration
 <p align="center">
-  <img src="assets/opodo_1.png" alt="Opodo_screenshot_1" height="400">
-  <img src="assets/opodo_2.png" alt="Opodo_screenshot_2" height="400">
-  <img src="assets/opodo_3.png" alt="Opodo_screenshot_3" height="400">
-  <img src="assets/opodo_4.png" alt="Opodo_screenshot_4" height="400">
+  <img src="assets/opodo_1.jpg" alt="Opodo_screenshot_1" height="400">
+  <img src="assets/opodo_2.jpg" alt="Opodo_screenshot_2" height="400">
+  <img src="assets/opodo_3.jpg" alt="Opodo_screenshot_3" height="400">
+  <img src="assets/opodo_4.jpg" alt="Opodo_screenshot_4" height="400">
 </p>
 
 
