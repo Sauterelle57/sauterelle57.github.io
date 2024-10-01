@@ -13,12 +13,24 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 ## 📫 Personsas
 ### Thomas Bouchard
 <p align="center">
-  <img src="assets/persona1.png" alt="Persona_1" height="600">
+  <img src="assets/persona1.png" alt="Persona_1" height="500">
 </p>
 
 ### Aiko Sato
 <p align="center">
-  <img src="assets/persona2.png" alt="Persona_2" height="600">
+  <img src="assets/persona2.png" alt="Persona_2" height="500">
+</p>
+
+
+## 🌟 Empathize Map
+### Thomas Bouchard
+<p align="center">
+  <img src="assets/empathize_map_1.jpg" alt="Empathize_Map_1" height="500">
+</p>
+
+### Aiko Saito
+<p align="center">
+  <img src="assets/empathize_map_1.jpg" alt="Empathize_Map_1" height="500">
 </p>
 
 
@@ -36,5 +48,14 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 </p>
 
 ## 🌟 Style
+### Inspiration
+<p align="center">
+  <img src="assets/opodo_1.png" alt="Opodo_screenshot_1" height="400">
+  <img src="assets/opodo_2.png" alt="Opodo_screenshot_2" height="400">
+  <img src="assets/opodo_3.png" alt="Opodo_screenshot_3" height="400">
+  <img src="assets/opodo_4.png" alt="Opodo_screenshot_4" height="400">
+</p>
+
+
 ## 🌟 Final Result
 ## 🌟 Conclusion
