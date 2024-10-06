@@ -6,11 +6,7 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 # Creation Process
 
 ## 🌟 Introduction
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-This document is the delivery of the user interface design mini-project in the SOEN 357 course. The aim of this assignment is to follow a structured UX/UI design process to develop a visual prototype of a mobile application, applying the principles studied in class. This process includes several key steps, such as [understanding the problem](#Understanding the Problem), [researching](#Research & Analysis) existing solutions, potential user data, [feature list](#Fonctionnalities), creating a [persona](#Personsas) and [empathy map](#Empathize Map), [user journey](#User Journey), [storyboarding](#Story Board), [sketching](#Sketches), implementing a [user flow](#User Flow), creating a [wireframe](#Wireframes), thinking about [style](#Style), then the [final result](#Final Result) and a [conclusion](#Conclusion). Each stage of the project will be detailed, highlighting the design choices made, the iterations carried out and the solutions proposed. The final result consists of visual prototypes of the application created with figma.
+This document is the delivery of the user interface design mini-project in the SOEN 357 course. The aim of this assignment is to follow a structured UX/UI design process to develop a visual prototype of a mobile application, applying the principles studied in class. This process includes several key steps, such as [understanding the problem](# 💡 Research & Analysis), [researching](#Research & Analysis) existing solutions, potential user data, [feature list](# 🌟 Fonctionnalities), creating a [persona](# 📫 Personsas) and [empathy map](# 🌟 Empathize Map), [user journey](#User Journey), [storyboarding](#Story Board), [sketching](#Sketches), implementing a [user flow](#User Flow), creating a [wireframe](#Wireframes), thinking about [style](#Style), then the [final result](#Final Result) and a [conclusion](#Conclusion). Each stage of the project will be detailed, highlighting the design choices made, the iterations carried out and the solutions proposed. The final result consists of visual prototypes of the application created with figma.
 
 ## 💡 Research & Analysis
 ## 🚀 Understanding the Problem
