@@ -7,12 +7,14 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 
 ## 🌟 Introduction
 <p align="justify">
-This document is the delivery of the user interface design mini-project in the SOEN 357 course. The aim of this assignment is to follow a structured UX/UI design process to develop a visual prototype of a mobile application, applying the principles studied in class. This process includes several key steps, such as [understanding the problem](#-Understanding-the-Problem), [researching](#-Research-&-Analysis) existing solutions, potential user data, [feature list](#-Fonctionnalities), creating a [persona](#-Personsas) and [empathy map](#-Empathize-Map), [user journey](#-User-Journey), [storyboarding](#-Story-Board), [sketching](#-Sketches), implementing a [user flow](#-User-Flow), creating a [wireframe](#-Wireframes), thinking about [style](#-Style), then the [final result](#-Final-Result) and a [conclusion](#-Conclusion). Each stage of the project will be detailed, highlighting the design choices made, the iterations carried out and the solutions proposed. The final result consists of visual prototypes of the application created with figma.
+This document is the delivery of the user interface design mini-project in the SOEN 357 course. The aim of this assignment is to follow a structured UX/UI design process to develop a visual prototype of a mobile application, applying the principles studied in class. This process includes several key steps, such as [understanding the problem](#-understanding-the-problem), [researching](#-research--analysis) existing solutions, potential user data, [feature list](#-fonctionnalities), creating a [persona](#-personsas) and [empathy map](#-empathize-map), [user journey](#-user-journey), [storyboarding](#-story-board), [sketching](#-sketches), implementing a [user flow](#-user-flow), creating a [wireframe](#-wireframes), thinking about [style](#-style), then the [final result](#-final-result) and a [conclusion](#-conclusion). Each stage of the project will be detailed, highlighting the design choices made, the iterations carried out and the solutions proposed. The final result consists of visual prototypes of the application created with figma.
 </p>
 
 ## 💡 Research & Analysis
 ## 🚀 Understanding the Problem
+<p align="justify">
 The aim of the project is to design a mobile application dedicated to travelers, in particular those traveling alone or to high-risk countries prone to unpredictable events. In these contexts, travelers need frequently updated and verified information, such as travel restrictions, dangers to avoid, local laws and available services. The main objective is to create an intuitive application that not only offers standard travel functions, but also provides quick access to information concerning risk zones, safety rules, health conditions and possible restrictions or conflicts. The application must bring together several services so that users can manage their journeys feeling safe, informed and accompanied, even alone and in unpredictable situations or unfamiliar countries.
+</p>
 
 ## 🌟 Fonctionnalities
 
