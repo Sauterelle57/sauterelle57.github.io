@@ -1,8 +1,5 @@
-Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN 357 - 2024-2025
-
-
 <p align="center">
-<img src="assets/banner_1.jpg." alt="Empathize_Map_2"> <!-- Remplace par l'URL de ton image de bannière -->
+  <img src="assets/banner_1.jpg" alt="baner">
 </p>
 
 ## 👋​ Introduction
@@ -63,15 +60,20 @@ The aim of the project is to design a mobile application dedicated to travelers,
 ## 😘 Author
 
 <p align="left">
-  <img src="assets/ton_image.jpg" alt="Marie Giacomel" height="150" style="border-radius: 50%; margin-right: 15px;">
-  <strong>Marie Giacomel</strong><br>
-  Concordia University, Montreal<br>
-  Student ID: 40321702<br>
-  Course: SOEN 357 - User Interface Design<br>
-  Concordia Email: <a href="mailto:ma_giaco@live.concordia.ca">ma_giaco@live.concordia.ca</a><br>
-  Epitech Email: <a href="mailto:marie.giacomel@epitech.eu">marie.giacomel@epitech.eu</a><br>
-  GitHub: <a href="https://github.com/Sauterelle57">Sauterelle57</a><br>
-  LinkedIn: <a href="https://www.linkedin.com/in/marie-giacomel-331256232/">Marie Giacomel</a>
+  <img src="assets/pp_v2.png" alt="Marie Giacomel" height="150" style="border-radius: 50%; margin-right: 15px;">
+  <p>
+    <strong>Marie Giacomel</strong><br>
+    Concordia University, Montreal<br><br>
+  </p>
+</p>
+<p>
+  <strong>Student ID:</strong> 40321702<br>
+  <strong>Course:</strong> SOEN 357 - User Interface Design<br>
+  <strong>Concordia Email:</strong> <a href="mailto:ma_giaco@live.concordia.ca">ma_giaco@live.concordia.ca</a><br>
+  <strong>Epitech Email:</strong> <a href="mailto:marie.giacomel@epitech.eu">marie.giacomel@epitech.eu</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/Sauterelle57">Sauterelle57</a><br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/marie-giacomel-331256232/">Marie Giacomel</a>
+  <br>
 </p>
 
 This project is part of my course work at Concordia University as part of my fourth-year exchange program at Epitech.
