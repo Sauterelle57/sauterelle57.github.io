@@ -6,16 +6,19 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 # Creation Process
 
 ## 🌟 Introduction
-## 🚀 Understanding the Problem
-## 🌟 Fonctionnalities
+
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+This document is the delivery of the user interface design mini-project in the SOEN 357 course. The aim of this assignment is to follow a structured UX/UI design process to develop a visual prototype of a mobile application, applying the principles studied in class. This process includes several key steps, such as [understanding the problem](#Understanding the Problem), [researching](#Research & Analysis) existing solutions, potential user data, [feature list](#Fonctionnalities), creating a [persona](#Personsas) and [empathy map](#Empathize Map), [user journey](#User Journey), [storyboarding](#Story Board), [sketching](#Sketches), implementing a [user flow](#User Flow), creating a [wireframe](#Wireframes), thinking about [style](#Style), then the [final result](#Final Result) and a [conclusion](#Conclusion). Each stage of the project will be detailed, highlighting the design choices made, the iterations carried out and the solutions proposed. The final result consists of visual prototypes of the application created with figma.
+
 ## 💡 Research & Analysis
+## 🚀 Understanding the Problem
+The aim of the project is to design a mobile application dedicated to travelers, in particular those traveling alone or to high-risk countries prone to unpredictable events. In these contexts, travelers need frequently updated and verified information, such as travel restrictions, dangers to avoid, local laws and available services. The main objective is to create an intuitive application that not only offers standard travel functions, but also provides quick access to information concerning risk zones, safety rules, health conditions and possible restrictions or conflicts. The application must bring together several services so that users can manage their journeys feeling safe, informed and accompanied, even alone and in unpredictable situations or unfamiliar countries.
+
+## 🌟 Fonctionnalities
 
 ## 📫 Personsas
-### Thomas Bouchard
-<p align="center">
-  <img src="assets/persona1.png" alt="Persona_1" height="500">
-</p>
-
 ### Aiko Sato
 <p align="center">
   <img src="assets/persona2.png" alt="Persona_2" height="500">
@@ -23,11 +26,6 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 
 
 ## 🌟 Empathize Map
-### Thomas Bouchard
-<p align="center">
-  <img src="assets/empathize_map_1.jpg" alt="Empathize_Map_1" height="200">
-</p>
-
 ### Aiko Saito
 <p align="center">
   <img src="assets/empathize_map_2.jpg" alt="Empathize_Map_2" height="200">
@@ -36,6 +34,8 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 
 ## 🌟 User Journey
 ## 🌟 Story Board
+- aiko sur son lit revant de partir à l'aventure
+- 
 ## 🌟 Sketches
 ## 🌟 User Flow
 ## 🌟 Wireframes
