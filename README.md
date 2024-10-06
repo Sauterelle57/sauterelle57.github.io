@@ -60,13 +60,9 @@ The aim of the project is to design a mobile application dedicated to travelers,
 ## ❔ Conclusion
 ## 😘 Author
 
-<p align="left">
-  <img src="assets/pp_v2.png" alt="Marie Giacomel" height="150" style="border-radius: 50%; margin-right: 15px;">
-  <p>
-    <strong>Marie Giacomel</strong><br>
-    Concordia University, Montreal<br><br>
-  </p>
-</p>
+<img src="assets/pp_v2.png" alt="Marie Giacomel" height="150" style="border-radius: 50%; margin-right: 15px;">
+<strong>Marie Giacomel</strong><br>
+Concordia University, Montreal<br><br>
 <p>
   <strong>Student ID:</strong> 40321702<br>
   <strong>Course:</strong> SOEN 357 - User Interface Design<br>
@@ -74,7 +70,7 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <strong>Epitech Email:</strong> <a href="mailto:marie.giacomel@epitech.eu">marie.giacomel@epitech.eu</a><br>
   <strong>GitHub:</strong> <a href="https://github.com/Sauterelle57">Sauterelle57</a><br>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/marie-giacomel-331256232/">Marie Giacomel</a>
-  <br>
+  <br><br>
 </p>
 
 This project is part of my course work at Concordia University as part of my fourth-year exchange program at Epitech.
