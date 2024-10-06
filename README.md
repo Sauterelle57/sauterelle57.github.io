@@ -6,8 +6,9 @@ Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN
 # Creation Process
 
 ## 🌟 Introduction
-This document is the delivery of the user interface design mini-project in the SOEN 357 course. The aim of this assignment is to follow a structured UX/UI design process to develop a visual prototype of a mobile application, applying the principles studied in class. This process includes several key steps, such as [understanding the problem](#-understanding-the-problem), [researching](#-research--analysis) existing solutions, potential user data, [feature list](#-fonctionnalities), creating a [persona](#-personsas) and [empathy map](#-empathize-map), [user journey](#-user-journey), [storyboarding](#-story-board), [sketching](#-sketches), implementing a [user flow](#-user-flow), creating a [wireframe](#-wireframes), thinking about [style](#-style), then the [final result](#-final-result) and a [conclusion](#-conclusion). Each stage of the project will be detailed, highlighting the design choices made, the iterations carried out and the solutions proposed. The final result consists of visual prototypes of the application created with figma.
-
+<p align="justify">
+This document is the delivery of the user interface design mini-project in the SOEN 357 course. The aim of this assignment is to follow a structured UX/UI design process to develop a visual prototype of a mobile application, applying the principles studied in class. This process includes several key steps, such as <a href="#-understanding-the-problem">understanding the problem</a>, <a href="#-research--analysis">researching</a> existing solutions, potential user data, <a href="#-fonctionnalities">feature list</a>, creating a <a href="#-persona">persona</a> and <a href="#-empathize-map">empathy map</a>, <a href="#-user-journey">user journey</a>, <a href="#-story-board">storyboarding</a>, <a href="#-sketches">sketching</a>, implementing a <a href="#-user-flow">user flow</a>, creating a <a href="#-wireframes">wireframe</a>, thinking about <a href="#-style">style</a>, then the <a href="#-final-result">final result</a> and a <a href="#-conclusion">conclusion</a>. Each stage of the project will be detailed, highlighting the design choices made, the iterations carried out and the solutions proposed. The final result consists of visual prototypes of the application created with figma.
+</p>
 
 ## 💡 Research & Analysis
 ## 🚀 Understanding the Problem
@@ -17,7 +18,7 @@ The aim of the project is to design a mobile application dedicated to travelers,
 
 ## 🌟 Fonctionnalities
 
-## 📫 Personsas
+## 📫 Persona
 ### Aiko Sato
 <p align="center">
   <img src="assets/persona2.png" alt="Persona_2" height="500">
