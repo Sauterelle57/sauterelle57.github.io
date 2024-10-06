@@ -1,7 +1,9 @@
 Assignment #1 - Marie Giacomel (40321702) - Concordia University Montreal - SOEN 357 - 2024-2025
 
 
-![Banner](https://htmlcolorcodes.com/assets/images/colors/baby-blue-color-solid-background-1920x1080.png) <!-- Remplace par l'URL de ton image de bannière -->
+<p align="center">
+<img src="assets/banner_1.jpg." alt="Empathize_Map_2"> <!-- Remplace par l'URL de ton image de bannière -->
+</p>
 
 ## 👋​ Introduction
 <p align="justify">
