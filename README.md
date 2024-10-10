@@ -63,8 +63,18 @@ The aim of the project is to design a mobile application dedicated to travelers,
 </p>
 
 ### Logo
+
+<p align="justify">
+In designing this logo, I thought about the symbolic elements that immediately evoke travel and adventure. I wanted to incorporate visual representations that are universally associated with travel and the discovery of new horizons.
+So I decided to combine three key elements: the sun, to symbolize the escape, warmth and light of new experiences; the boat, as a representation of sea travel, evoking exploration and freedom; and finally, the airplane, which embodies modern, fast and global travel.
+</p>
 <p align="center">
   <img src="assets/inspiration_logo.png" alt="search_style" width="300">
+</p>
+
+<p align="justify">
+The combination of these three elements in the logo reflects the idea of movement, the diversity of means of transport, and the beauty of the landscapes to be discovered on each journey.
+After assembling the sun, the boat and the plane to create the logo, I wanted to explore different visual options by declining it in the colors of my palette. This allowed me to test various combinations and see how the colors could reinforce the values and energy I wanted to convey through the design. This declination process was essential in deciding which color theme I wanted to use for my final result.
 </p>
 
 <p align="center">
@@ -133,7 +143,6 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/logo/Image66.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image67.png" alt="logo" width="75" height="75"><br>
 
-  
   <img src="assets/logo/Image11.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image12.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image49.png" alt="logo" width="75" height="75">
@@ -148,13 +157,18 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
 </p>
 
-
-
+<p align="justify">
+This process allowed me to test the visual impact of each option. In the end, I chose a version with contrasting, fairly warm colors, always with the idea of reflecting the energy and emotion associated with travel. And above all, the logo that visually appealed to me the most and inspired me the most.
+</p>
 <p align="center">
   <img src="assets/logo/Image3.png" alt="logo" widht="300" height="300">
 </p>
 
 ## 🌟 Final Result
+
+<p align="justify">
+I was finally able to use the wireframe bases to create the final result on Figma. Starting from the structure and functionalities defined in the wireframes, I was able to refine the visual details and design an interface, integrating examples and more context. This passage from wireframes to the final prototype enabled me to bring the application more life and visualy show how the app would look like. This part took me the longest to do.
+</p>
 
 <p align="center">
   <img src="assets/screens/Connexion screen.png" alt="logo" height="400">
@@ -168,13 +182,17 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/screens/MyTravel screen.png" alt="logo" height="400">
 </p>
 
+<p align="jusitify">
+Once I was satisfied with the result, I had some fun making a quick animated version to better visualize what it might look like on a phone.
+</p>
 
 <p align="center">
-  ![Description du GIF](assets/gif.gif)
+  <img src="assets/gif.gif" alt="Demo de l'application" height="400">
 </p>
 
 ## ❔ Conclusion
 ## 😘 Author
+
 
 <img src="assets/pp_v2.png" alt="Marie Giacomel" height="150" style="border-radius: 50%; margin-right: 15px;">
 <strong>Marie Giacomel</strong><br>
