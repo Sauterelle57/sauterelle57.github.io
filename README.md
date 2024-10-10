@@ -61,6 +61,10 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/search_style.jpg" alt="search_style">
   <img src="assets/palette.png" alt="Color_palette">
 </p>
+<br>
+<br>
+<br>
+<br>
 
 ### Logo
 
