@@ -122,16 +122,30 @@ The aim of the project is to design a mobile application dedicated to travelers,
   
   <img src="assets/logo/Image62.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image63.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image5.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image10.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image13.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image14.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image64.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image65.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image66.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image67.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image5.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image10.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image57.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image57.png" alt="logo" width="75" height="75"<br>
+
+  
+  <img src="assets/logo/Image68.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image69.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image11.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image12.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image47.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image48.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image49.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image50.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image47.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image48.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image51.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image52.png" alt="logo" width="75" height="75">
 </p>
 
 
