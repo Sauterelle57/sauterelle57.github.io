@@ -68,86 +68,91 @@ The aim of the project is to design a mobile application dedicated to travelers,
 </p>
 
 <p align="center">
-  <img src="assets/logo/Image1.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image2.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image58.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image58.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image39.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image40.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image43.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image44.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image1.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image2.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image45.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image46.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image41.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image42.png" alt="logo" width="75" height="75"><br>
+  <img src="assets/logo/Image42.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image43.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image44.png" alt="logo" width="75" height="75"><br>
 
-  <img src="assets/logo/Image29.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image30.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image8.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image9.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image59.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image59.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image27.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image28.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image29.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image30.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image23.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image24.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image25.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image26.png" alt="logo" width="75" height="75"><br>
+  <img src="assets/logo/Image26.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image27.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image28.png" alt="logo" width="75" height="75"><br>
 
-  <img src="assets/logo/Image61.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image61.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image3.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image4.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image19.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image20.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image15.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image16.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image61.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image61.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image21.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image22.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image17.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image18.png" alt="logo" width="75" height="75"><br>
+  <img src="assets/logo/Image18.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image15.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image16.png" alt="logo" width="75" height="75"><br>
 
-  <img src="assets/logo/Image31.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image32.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image6.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image7.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image37.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image38.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image33.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image34.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image31.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image32.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image56.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image56.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image35.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image36.png" alt="logo" width="75" height="75"><br>
+  <img src="assets/logo/Image36.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image33.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image34.png" alt="logo" width="75" height="75"><br>
   
-  <img src="assets/logo/Image62.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image63.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image13.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image14.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image64.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image65.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image66.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image67.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image62.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image63.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image5.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image10.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image57.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image57.png" alt="logo" width="75" height="75"<br>
+  <img src="assets/logo/Image57.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image66.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image67.png" alt="logo" width="75" height="75"><br>
 
   
-  <img src="assets/logo/Image68.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image69.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image11.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image12.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image49.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image50.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image68.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image69.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image47.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image48.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image51.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image52.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
 </p>
 
+
+
+<p align="center">
+  <img src="assets/logo/Image60.png" alt="logo">
+</p>
 
 ## 🌟 Final Result
 ## ❔ Conclusion
