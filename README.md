@@ -30,10 +30,6 @@ Before I started thinking about my app design, I researched existing apps to und
 </p>
 <br>
 
-## 💡 Fonctionnalities
-
-<br>
-
 ## 🙂 Persona
 <p align="justify">
   I created the Aiko Sato persona to better understand the needs and expectations of a key user of my app: a solo traveler looking for safety and convenience. By defining her characteristics, fears and frustrations, I was able to focus on features that addressed her concerns, such as the need for reliable, real-time information and personalized guidance. This persona helped me guide the design process, taking into account the real challenges faced by travelers like Aiko.
