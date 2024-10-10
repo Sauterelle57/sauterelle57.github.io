@@ -8,9 +8,6 @@ This document is the delivery of the user interface design mini-project in the S
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
 ## 🤔 Understanding the Problem
 <p align="justify">
@@ -18,15 +15,9 @@ The aim of the project is to design a mobile application dedicated to travelers,
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
 ## 🔍 Research & Analysis
 
-<br>
-<br>
-<br>
 <br>
 
 ### Existing App : Opodo
@@ -38,15 +29,9 @@ The aim of the project is to design a mobile application dedicated to travelers,
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
 ## 💡 Fonctionnalities
 
-<br>
-<br>
-<br>
 <br>
 
 ## 🙂 Persona
@@ -57,9 +42,6 @@ The aim of the project is to design a mobile application dedicated to travelers,
 
 
 <br>
-<br>
-<br>
-<br>
 
 ## 🤝 Empathize Map
 ### Aiko Saito
@@ -69,9 +51,6 @@ The aim of the project is to design a mobile application dedicated to travelers,
 
 
 <br>
-<br>
-<br>
-<br>
 
 ## 🗺️​ Journey Map
 <p align="center">
@@ -79,29 +58,17 @@ The aim of the project is to design a mobile application dedicated to travelers,
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
 ## ✈️​ User Flow
 
-<br>
-<br>
-<br>
 <br>
 
 ## 📖 Story Board
 
 <br>
-<br>
-<br>
-<br>
 
 ## ✏️ Sketches
 
-<br>
-<br>
-<br>
 <br>
 
 ## 🖼️ Wireframes
@@ -114,9 +81,6 @@ The aim of the project is to design a mobile application dedicated to travelers,
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
 ## 🎨 Style
 ### Color Palette
@@ -124,8 +88,6 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/search_style.jpg" alt="search_style">
   <img src="assets/palette.png" alt="Color_palette">
 </p>
-<br>
-<br>
 <br>
 <br>
 
