@@ -81,7 +81,6 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/logo/Image41.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image42.png" alt="logo" width="75" height="75"><br>
 
-
   <img src="assets/logo/Image29.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image30.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image8.png" alt="logo" width="75" height="75">
@@ -121,12 +120,14 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/logo/Image35.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image36.png" alt="logo" width="75" height="75"><br>
   
+  <img src="assets/logo/Image62.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image63.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image5.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image10.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image11.png" alt="logo" width="75" height="75">
-  <img src="assets/logo/Image12.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image13.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image14.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image11.png" alt="logo" width="75" height="75">
+  <img src="assets/logo/Image12.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image47.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image48.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image49.png" alt="logo" width="75" height="75">
