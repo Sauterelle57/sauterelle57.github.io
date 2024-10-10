@@ -88,9 +88,17 @@ The aim of the project is to design a mobile application dedicated to travelers,
 
 ## 🎨 Style
 ### Color Palette
+<p align="justify">
+  For the styling of my app, I drew inspiration from real-life elements that evoke both travel and tranquility. I wanted to capture the serenity one feels lounging on a beach, under the sun, surrounded by palm trees and the gentle sound of the waves. Images of planes soaring into clear skies and a tranquil sea add a dimension of adventure and exploration. By integrating these visual elements, I hope to create an interface that evokes sensations of freedom and relaxation, while facilitating the user experience for those who dream of traveling.
+</p>
 <p align="center">
   <img src="assets/search_style.jpg" alt="search_style">
-  <img src="assets/palette.png" alt="Color_palette">
+</p>
+<p align="jusitify">
+In the process of visually creating my app, I tested several color palettes before finding the combination that I felt best suited the spirit of the app. This research turned out to be a rather straightforward, but above all very inspiring part for me. I explored different shades, seeking to balance contrasting and soothing tones that evoke both adventure and serenity. The final choice of colors reflects the essence of the journey while ensuring a pleasant visual experience for the user.
+</p>
+<p align="center">
+  <img src="assets/palette.png" alt="Color_palette" width="80%">
 </p>
 <br>
 <br>
