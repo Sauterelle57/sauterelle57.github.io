@@ -7,12 +7,28 @@
 This document is the delivery of the user interface design mini-project in the SOEN 357 course. The aim of this assignment is to follow a structured UX/UI design process to develop a visual prototype of a mobile application, applying the principles studied in class. This process includes several key steps, such as <a href="#-understanding-the-problem">understanding the problem</a>, <a href="#-research--analysis">researching</a> existing solutions, potential user data, <a href="#-fonctionnalities">feature list</a>, creating a <a href="#-persona">persona</a> and <a href="#-empathize-map">empathy map</a>, <a href="#%EF%B8%8F-journey-map">journey map</a>, <a href="#-story-board">storyboarding</a>, <a href="#%EF%B8%8F-sketches">sketching</a>, implementing a <a href="#%EF%B8%8F-user-flow">user flow</a>, creating a <a href="#%EF%B8%8F-wireframes">wireframe</a>, thinking about <a href="#-style">style</a>, then the <a href="#-final-result">final result</a> and a <a href="#-conclusion">conclusion</a>. Each stage of the project will be detailed, highlighting the design choices made, the iterations carried out and the solutions proposed. The final result consists of visual prototypes of the application created with figma.
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 ## 🤔 Understanding the Problem
 <p align="justify">
 The aim of the project is to design a mobile application dedicated to travelers, in particular those traveling alone or to high-risk countries prone to unpredictable events. In these contexts, travelers need frequently updated and verified information, such as travel restrictions, dangers to avoid, local laws and available services. The main objective is to create an intuitive application that not only offers standard travel functions, but also provides quick access to information concerning risk zones, safety rules, health conditions and possible restrictions or conflicts. The application must bring together several services so that users can manage their journeys feeling safe, informed and accompanied, even alone and in unpredictable situations or unfamiliar countries.
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 ## 🔍 Research & Analysis
+
+<br>
+<br>
+<br>
+<br>
+
 ### Existing App : Opodo
 <p align="center">
   <img src="assets/opodo_1.jpg" alt="Opodo_screenshot_1" height="400">
@@ -21,7 +37,17 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/opodo_4.jpg" alt="Opodo_screenshot_4" height="400">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 ## 💡 Fonctionnalities
+
+<br>
+<br>
+<br>
+<br>
 
 ## 🙂 Persona
 ### Aiko Sato
@@ -30,6 +56,11 @@ The aim of the project is to design a mobile application dedicated to travelers,
 </p>
 
 
+<br>
+<br>
+<br>
+<br>
+
 ## 🤝 Empathize Map
 ### Aiko Saito
 <p align="center">
@@ -37,15 +68,42 @@ The aim of the project is to design a mobile application dedicated to travelers,
 </p>
 
 
+<br>
+<br>
+<br>
+<br>
+
 ## 🗺️​ Journey Map
 <p align="center">
   <img src="assets/journey_map.jpg" alt="Journey_Map">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 ## ✈️​ User Flow
+
+<br>
+<br>
+<br>
+<br>
+
 ## 📖 Story Board
 
+<br>
+<br>
+<br>
+<br>
+
 ## ✏️ Sketches
+
+<br>
+<br>
+<br>
+<br>
+
 ## 🖼️ Wireframes
 
 <p align="center">
@@ -54,6 +112,11 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/wireframe_3.png" alt="Wireframe_3" height="400">
   <img src="assets/wireframe_4.png" alt="Wireframe_4" height="400">
 </p>
+
+<br>
+<br>
+<br>
+<br>
 
 ## 🎨 Style
 ### Color Palette
@@ -197,8 +260,7 @@ Once I was satisfied with the result, I had some fun making a quick animated ver
 ## ❔ Conclusion
 ## 😘 Author
 
-
-<img src="assets/pp_v2.png" alt="Marie Giacomel" height="150" style="border-radius: 50%; margin-right: 15px;">
+<img src="assets/pp_v2.png" alt="Marie Giacomel" height="150" style="border-radius: 50%; margin-right: 15px;"><br>
 <strong>Marie Giacomel</strong><br>
 Concordia University, Montreal<br><br>
 <p>
