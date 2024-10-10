@@ -35,16 +35,20 @@ The aim of the project is to design a mobile application dedicated to travelers,
 <br>
 
 ## 🙂 Persona
-### Aiko Sato
+<p align="justify">
+  I created the Aiko Sato persona to better understand the needs and expectations of a key user of my app: a solo traveler looking for safety and convenience. By defining her characteristics, fears and frustrations, I was able to focus on features that addressed her concerns, such as the need for reliable, real-time information and personalized guidance. This persona helped me guide the design process, taking into account the real challenges faced by travelers like Aiko.
+</p>
 <p align="center">
-  <img src="assets/persona2.png" alt="Persona_2">
+  <img src="assets/persona.jpg" alt="Persona_2">
 </p>
 
 
 <br>
 
 ## 🤝 Empathize Map
-### Aiko Saito
+<p align="justify">
+  J'ai élaboré la carte d'empathie pour Aiko Sato afin d'approfondir ma compréhension de ses émotions, motivations et expériences en tant que voyageuse solo. Cet outil visuel me permet de visualiser ce qu'Aiko pense, ressent, dit et fait dans le contexte de ses voyages. En identifiant ses besoins, ses frustrations et ses aspirations, j'ai pu mieux cerner comment mon application pourrait l'accompagner tout au long de son parcours. La carte d'empathie est essentielle pour m'assurer que le design et les fonctionnalités répondent véritablement aux attentes d'utilisateurs comme Aiko, en favorisant une expérience utilisateur positive et adaptée à leurs réalités.
+</p>
 <p align="center">
   <img src="assets/empathize_map_2.jpg" alt="Empathize_Map_2">
 </p>
