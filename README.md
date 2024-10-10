@@ -151,10 +151,28 @@ The aim of the project is to design a mobile application dedicated to travelers,
 
 
 <p align="center">
-  <img src="assets/logo/Image60.png" alt="logo">
+  <img src="assets/logo/Image3.png" alt="logo" widht="300" height="300">
 </p>
 
 ## 🌟 Final Result
+
+<p align="center">
+  <img src="assets/screens/Connexion screen.png" alt="logo" height="400">
+  <img src="assets/screens/Map screen.png" alt="logo" height="400">
+  <img src="assets/screens/Card screen.png" alt="logo" height="400">
+  <img src="assets/screens/Card up screen.png" alt="logo" height="400">
+  <img src="assets/screens/Card up info screen.png" alt="logo" height="400">
+  <img src="assets/screens/Offer screen.png" alt="logo" height="400">
+  <img src="assets/screens/Profil screen.png" alt="logo" height="400">
+  <img src="assets/screens/Alert screen.png" alt="logo" height="400">
+  <img src="assets/screens/MyTravel screen.png" alt="logo" height="400">
+</p>
+
+
+<p align="center">
+  ![Description du GIF](assets/gif.gif)
+</p>
+
 ## ❔ Conclusion
 ## 😘 Author
 
