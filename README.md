@@ -266,6 +266,7 @@ Once I was satisfied with the result, I had some fun making a quick animated ver
 In conclusion, this project enabled me to explore every key stage of the UX/UI design process, from initial research to the creation of final prototypes. I followed a structured methodology that helped me understand the needs of target users, through the creation of personas, empathy maps, sketches and wireframes. Drawing on real-life references and visual inspirations evocative of travel and serenity, I was able to design an application that combines functionality and aesthetics. Every design decision was guided by the desire to offer travelers a fluid, intuitive and secure experience.
 The final prototypes reflect these priorities, while incorporating user feedback and best practices in interactive design. Finally, the project was carried out on Figma, and is the result of numerous iterations aimed at offering a solution adapted to travelers in search of safety and simplicity.
 </p>
+<br>
 
 ## 😘 Author
 
