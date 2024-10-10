@@ -13,12 +13,13 @@ This document is the delivery of the user interface design mini-project in the S
 <p align="justify">
 The aim of the project is to design a mobile application dedicated to travelers, in particular those traveling alone or to high-risk countries prone to unpredictable events. In these contexts, travelers need frequently updated and verified information, such as travel restrictions, dangers to avoid, local laws and available services. The main objective is to create an intuitive application that not only offers standard travel functions, but also provides quick access to information concerning risk zones, safety rules, health conditions and possible restrictions or conflicts. The application must bring together several services so that users can manage their journeys feeling safe, informed and accompanied, even alone and in unpredictable situations or unfamiliar countries.
 </p>
-
 <br>
 
 ## 🔍 Research & Analysis
 
-<br>
+<p align="justify">
+Before I started thinking about my app design, I researched existing apps to understand the features and designs used in the travel industry. Among the applications I studied was Opodo, which offers a full range of travel-related services. This analysis enabled me to identify the strengths and limitations of current solutions, and to draw inspiration from them to design an application that meets the specific needs of my users while offering an enhanced experience.
+</p>
 
 ### Existing App : Opodo
 <p align="center">
@@ -27,7 +28,6 @@ The aim of the project is to design a mobile application dedicated to travelers,
   <img src="assets/opodo_3.jpg" alt="Opodo_screenshot_3" height="400">
   <img src="assets/opodo_4.jpg" alt="Opodo_screenshot_4" height="400">
 </p>
-
 <br>
 
 ## 💡 Fonctionnalities
@@ -38,25 +38,31 @@ The aim of the project is to design a mobile application dedicated to travelers,
 <p align="justify">
   I created the Aiko Sato persona to better understand the needs and expectations of a key user of my app: a solo traveler looking for safety and convenience. By defining her characteristics, fears and frustrations, I was able to focus on features that addressed her concerns, such as the need for reliable, real-time information and personalized guidance. This persona helped me guide the design process, taking into account the real challenges faced by travelers like Aiko.
 </p>
+<br>
 <p align="center">
-  <img src="assets/persona.jpg" alt="Persona_2">
+  <img src="assets/persona.jpg" alt="Persona_2" width="80%">
 </p>
-
-
 <br>
 
 ## 🤝 Empathize Map
 <p align="justify">
   J'ai élaboré la carte d'empathie pour Aiko Sato afin d'approfondir ma compréhension de ses émotions, motivations et expériences en tant que voyageuse solo. Cet outil visuel me permet de visualiser ce qu'Aiko pense, ressent, dit et fait dans le contexte de ses voyages. En identifiant ses besoins, ses frustrations et ses aspirations, j'ai pu mieux cerner comment mon application pourrait l'accompagner tout au long de son parcours. La carte d'empathie est essentielle pour m'assurer que le design et les fonctionnalités répondent véritablement aux attentes d'utilisateurs comme Aiko, en favorisant une expérience utilisateur positive et adaptée à leurs réalités.
 </p>
+<br>
 <p align="center">
   <img src="assets/empathize_map_2.jpg" alt="Empathize_Map_2">
 </p>
-
-
 <br>
 
 ## 🗺️​ Journey Map
+
+<p align="justify">
+I created a user map to visualize the user's complete journey through the application, step by step. This tool enabled me to analyze how a user interacts with the various functionalities, from opening the application to achieving their objectives (such as searching for travel information or managing their reservations).
+<br>
+By building this map, I was able to identify potential friction points and optimize the navigation flow to make the experience as fluid and intuitive as possible. This approach helped me to better understand the user's needs at each stage of their journey, while ensuring that the application remained simple and pleasant to use.
+</p>
+<br>
+
 <p align="center">
   <img src="assets/journey_map.jpg" alt="Journey_Map">
 </p>
@@ -68,20 +74,40 @@ The aim of the project is to design a mobile application dedicated to travelers,
 <br>
 
 ## 📖 Story Board
-
+<p align="justify">
+I designed a storyboard to illustrate the user journey in a visual and narrative way. This tool enabled me to tell the story of the user as he interacts with the application, showing how he moves from one stage to the next. Through visual scenarios, I was able to identify the emotions and potential reactions of the user at different moments in his experience.
+<br>
+Storyboarding helped me to understand not only the user's actions, but also the motivations and obstacles he might encounter when using the application. By narrating these key moments, I was able to fine-tune the design and ensure that each feature corresponded to the real needs and expectations of users.
+</p>
+<br>
+<p align="center">
+  <img src="assets/story_board.png" alt="Story_Board">
+</p>
 <br>
 
 ## ✏️ Sketches
-
+<p align="justify>
+I created sketches to lay the initial visual foundations of the application. They enabled me to quickly translate my ideas into concrete sketches, in order to visualize the layout of elements and the arrangement of different interfaces. This process helped me to explore several concepts without being limited by technical details, and to test different configurations before moving on to more detailed mock-ups.
+<br>
+By sketching out these initial ideas, I was able to concentrate on the essentials: functionality and fluidity of the user experience. These sketches served as a guide throughout the visual development, ensuring that the aesthetic choices made respected the application's initial objective.
+</p>
 <br>
 
 ## 🖼️ Wireframes
-
+<p align="justify">
+I created wireframes to define the basic structure of my application before getting into the visual details. Wireframes allowed me to focus on the hierarchy of information, the placement of elements and overall navigation without worrying about aesthetic aspects at this stage. They were essential for testing and validating the layout of functionalities, ensuring that the application was intuitive and easy to use.
+<br>
+By working on the wireframes, I was able to ensure that each screen responded effectively to the user's needs, while maintaining consistency in the navigation flow. This step laid a solid foundation on which to build the final visual design.
+</p>
+<br>
 <p align="center">
   <img src="assets/wireframe_1.png" alt="Wireframe_1" height="400">
   <img src="assets/wireframe_2.png" alt="Wireframe_2" height="400">
   <img src="assets/wireframe_3.png" alt="Wireframe_3" height="400">
   <img src="assets/wireframe_4.png" alt="Wireframe_4" height="400">
+  <img src="assets/wireframe_5.png" alt="Wireframe_5" height="400">
+  <img src="assets/wireframe_6.png" alt="Wireframe_6" height="400">
+  <img src="assets/wireframe_7.png" alt="Wireframe_7" height="400">
 </p>
 
 <br>
@@ -91,12 +117,15 @@ The aim of the project is to design a mobile application dedicated to travelers,
 <p align="justify">
   For the styling of my app, I drew inspiration from real-life elements that evoke both travel and tranquility. I wanted to capture the serenity one feels lounging on a beach, under the sun, surrounded by palm trees and the gentle sound of the waves. Images of planes soaring into clear skies and a tranquil sea add a dimension of adventure and exploration. By integrating these visual elements, I hope to create an interface that evokes sensations of freedom and relaxation, while facilitating the user experience for those who dream of traveling.
 </p>
+<br>
 <p align="center">
   <img src="assets/search_style.jpg" alt="search_style">
 </p>
+<br>
 <p align="jusitify">
 In the process of visually creating my app, I tested several color palettes before finding the combination that I felt best suited the spirit of the app. This research turned out to be a rather straightforward, but above all very inspiring part for me. I explored different shades, seeking to balance contrasting and soothing tones that evoke both adventure and serenity. The final choice of colors reflects the essence of the journey while ensuring a pleasant visual experience for the user.
 </p>
+<br>
 <p align="center">
   <img src="assets/palette.png" alt="Color_palette" width="80%">
 </p>
@@ -109,15 +138,16 @@ In the process of visually creating my app, I tested several color palettes befo
 In designing this logo, I thought about the symbolic elements that immediately evoke travel and adventure. I wanted to incorporate visual representations that are universally associated with travel and the discovery of new horizons.
 So I decided to combine three key elements: the sun, to symbolize the escape, warmth and light of new experiences; the boat, as a representation of sea travel, evoking exploration and freedom; and finally, the airplane, which embodies modern, fast and global travel.
 </p>
+<br>
 <p align="center">
   <img src="assets/inspiration_logo.png" alt="search_style" width="300">
 </p>
-
+<br>
 <p align="justify">
 The combination of these three elements in the logo reflects the idea of movement, the diversity of means of transport, and the beauty of the landscapes to be discovered on each journey.
 After assembling the sun, the boat and the plane to create the logo, I wanted to explore different visual options by declining it in the colors of my palette. This allowed me to test various combinations and see how the colors could reinforce the values and energy I wanted to convey through the design. This declination process was essential in deciding which color theme I wanted to use for my final result.
 </p>
-
+<br>
 <p align="center">
   <img src="assets/logo/Image58.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image58.png" alt="logo" width="75" height="75">
@@ -197,10 +227,11 @@ After assembling the sun, the boat and the plane to create the logo, I wanted to
   <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
   <img src="assets/logo/Image60.png" alt="logo" width="75" height="75">
 </p>
-
+<br>
 <p align="justify">
 This process allowed me to test the visual impact of each option. In the end, I chose a version with contrasting, fairly warm colors, always with the idea of reflecting the energy and emotion associated with travel. And above all, the logo that visually appealed to me the most and inspired me the most.
 </p>
+<br>
 <p align="center">
   <img src="assets/logo/Image3.png" alt="logo" widht="300" height="300">
 </p>
@@ -210,7 +241,7 @@ This process allowed me to test the visual impact of each option. In the end, I 
 <p align="justify">
 I was finally able to use the wireframe bases to create the final result on Figma. Starting from the structure and functionalities defined in the wireframes, I was able to refine the visual details and design an interface, integrating examples and more context. This passage from wireframes to the final prototype enabled me to bring the application more life and visualy show how the app would look like. This part took me the longest to do.
 </p>
-
+<br>
 <p align="center">
   <img src="assets/screens/Connexion screen.png" alt="logo" height="400">
   <img src="assets/screens/Map screen.png" alt="logo" height="400">
@@ -222,16 +253,20 @@ I was finally able to use the wireframe bases to create the final result on Figm
   <img src="assets/screens/Alert screen.png" alt="logo" height="400">
   <img src="assets/screens/MyTravel screen.png" alt="logo" height="400">
 </p>
-
+<br>
 <p align="jusitify">
 Once I was satisfied with the result, I had some fun making a quick animated version to better visualize what it might look like on a phone.
 </p>
-
+<br>
 <p align="center">
   <img src="assets/gif.gif" alt="Demo de l'application" height="400">
 </p>
+<br>
+<br>
 
 ## ❔ Conclusion
+
+
 ## 😘 Author
 
 <img src="assets/pp_v2.png" alt="Marie Giacomel" height="150" style="border-radius: 50%; margin-right: 15px;"><br>
