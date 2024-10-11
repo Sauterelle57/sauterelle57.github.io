@@ -30,6 +30,20 @@ Before I started thinking about my app design, I researched existing apps to und
 </p>
 <br>
 
+
+
+### App Name
+<p align="justify">
+The choice of the name <strong>SwayAway</strong> is the fruit of reflection around the core values I wanted to convey through my application: simplicity, serenity and the desire to escape. I was looking for a name that evoked both travel and the feeling of calm, without complexity, that I imagined for the user.
+<br>
+The word “Sway” came to mind, thinking of the idea of letting yourself be guided naturally, as if swaying slightly, carried by a breeze or a wave. It perfectly captured the fluidity and lightness I wanted to convey. “Away” came next, evoking the sense of escape and discovery of new horizons that many travelers seek. Combining these two terms, SwayAway was born, reflecting the idea of a soothed, obstacle-free journey, where every step is designed to offer a fluid, enjoyable experience.
+  <br>
+  <br>
+The name SwayAway perfectly reflects the spirit of the application: an invitation to let yourself be carried away by the sweetness of travel, while keeping simplicity and serenity at the heart of the experience.
+</p>
+<br>
+
+
 ## 🙂 Persona
 <p align="justify">
   I created the Aiko Sato persona to better understand the needs and expectations of a key user of my app: a solo traveler looking for safety and convenience. By defining her characteristics, fears and frustrations, I was able to focus on features that addressed her concerns, such as the need for reliable, real-time information and personalized guidance. This persona helped me guide the design process, taking into account the real challenges faced by travelers like Aiko.
