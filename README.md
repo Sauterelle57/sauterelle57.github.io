@@ -237,6 +237,18 @@ This process allowed me to test the visual impact of each option. In the end, I 
   <img src="assets/logo/Image3.png" alt="logo" widht="300" height="300">
 </p>
 
+
+### Font
+<br>
+<p align="center">
+  <img src="assets/fonts/Afacad Flux.png" alt="logo" height="400">
+  <img src="assets/fonts/Aptos.png" alt="logo" height="400">
+  <img src="assets/fonts/Jost.png" alt="logo" height="400">
+  <img src="assets/fonts/Noto Sans Oriya.png" alt="logo" height="400">
+  <img src="assets/fonts/Raleway.png" alt="logo" height="400">
+</p>
+<br>
+
 ## 🌟 Final Result
 
 <p align="justify">
