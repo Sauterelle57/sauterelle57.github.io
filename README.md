@@ -58,15 +58,19 @@ I created a user map to visualize the user's complete journey through the applic
 By building this map, I was able to identify potential friction points and optimize the navigation flow to make the experience as fluid and intuitive as possible. This approach helped me to better understand the user's needs at each stage of their journey, while ensuring that the application remained simple and pleasant to use.
 </p>
 <br>
-
 <p align="center">
   <img src="assets/journey_map.jpg" alt="Journey_Map">
 </p>
-
 <br>
 
 ## ✈️​ User Flow
-
+<p align="jusitify">
+I was then able to create a user flow to understand the different steps a user would go through when using the application. This user flow illustrates the steps a user follows to find and book a trip through the application. The main objective is to make the process as fluid and intuitive as possible for the user, minimizing the number of steps and providing an optimal user experience.
+</p>
+<br>
+<p align="center">
+  <img src="assets/user_flow.jpg" alt="User_Flow">
+</p>
 <br>
 
 ## 📖 Story Board
