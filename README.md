@@ -30,7 +30,7 @@ Before I started thinking about my app design, I researched existing apps to und
 </p>
 <br>
 
-<p align="jusitify">
+<p align="justify">
 I soon realized that the fact that I only knew one travel app wasn't going to help me much when it came to creating my super app.
 It was more interesting for me to learn from my potential users and ask questions directly to travelers. So I devised a form that was simple and short enough to get as many answers as possible without losing the attention of the people being questioned.
   <br>
@@ -38,59 +38,118 @@ I made the form on google form, which seemed to me to be the easiest tool to use
 I then thought about the best way to get answers from people concerned by my problem. And I finally decided to send the form to a server gathering travelers on the discord social network.
   <br><br>
 You can find the results of my survey below.
-</p>
+</p><br>
 
 <p align="center">
-  <img src="assets/form/who.png" alt="who.png" widht="500">
-</p><br>
+  <img src="assets/form/who.png" alt="who.png" width="500">
+  <img src="assets/form/howold.png" alt="howold.png" width="500">
+</p>
+<p align="jusitify">
+  As can be seen from the results, there is a good diversity of age groups, but the majority of responses come from the 18-25 and 26-35 age groups.
+There is a slight gender balance, with a majority of men taking part.
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/howold.png" alt="howold.png" widht="500">
-</p><br>
+  <img src="assets/form/timetravel.png" alt="timetravel.png" width="500">
+  <img src="assets/form/type.png" alt="type.png" width="500">
+</p>
+<p align="jusitify">
+  The majority of respondents travel between 1 and 3 times a year.
+Pleasure” and ‘Business’ seem to be the most popular types of trip, closely followed by ‘Adventure’.
+There is also a good balance between those who prefer to travel solo, with family, or for business reasons.
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/timetravel.png" alt="timetravel.png" widht="500">
-</p><br>
+  <img src="assets/form/stressful.png" alt="stressful.png" width="600">
+</p>
+<p align="jusitify">
+  Staying within budget is the most frequently cited aspect, underlining the importance for many travellers of managing their finances while on the move.
+Managing visas and documentation is also a major concern, especially for those traveling internationally.
+Cultural and linguistic differences also pose significant challenges for respondents, as does the search for interesting local activities.
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/type.png" alt="type.png" widht="500">
-</p><br>
+  <img src="assets/form/information.png" alt="information.png" width="600">
+</p>
+<p align="jusitify">
+    Websites are the most common source of information for planning trips, followed by social media and traveler forums.
+Family/friends and travel agencies remain reliable sources, although less frequently mentioned.
+There's a relatively even split between those who use travel apps and those who don't.
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/stressful.png" alt="stressful.png" widht="500">
-</p><br>
+  <img src="assets/form/useapp.png" alt="useapp.png" width="500">
+  <img src="assets/form/yesapp.png" alt="yesapp.png" width="500">
+</p>
+<p align="jusitify">
+  According to the results, respondents used <strong>Opodo, Airbnb, Booking, Google Flights, Trip.com.</strong> for booking flights and accommodation, 
+Google Maps. for route planning and transportation 
+for special offers: mainly on platforms such as Airbnb and for flight searches. 
+Deepl for interactions in other languages and translations. 
+and finally: Instagram for discovering new destinations, and access to special offers.
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/information.png" alt="information.png" widht="500">
-</p><br>
+  <img src="assets/form/essentialfeature.png" alt="essentialfeature.png" width="600">
+</p>
+<p align="jusitify">
+  Among the most important features mentioned by survey participants were: <br>
+  - Flight booking: Sought-after for air travel planning.<br>
+  - Hotel search: Useful for accommodation.<br>
+  - Safety alerts: Essential for keeping abreast of local risks.<br>
+  - Itinerary management: Helps organize travel and activities during the trip.<br>
+  - Special offers and discounts: Attract travelers to take advantage of discounted prices.<br>
+  - Destination information: Information on places to visit, customs and other local information.<br>
+  - Discussions with other travelers: Encourage the exchange of experiences and advice with other users.
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/useapp.png" alt="useapp.png" widht="500">
-</p><br>
+  <img src="assets/form/crisis.png" alt="crisis.png" width="600">
+</p>
 <p align="center">
-  <img src="assets/form/yesapp.png" alt="yesapp.png" widht="500">
+  <img src="assets/form/yescrisis.png" alt="yescrisis.png" width="600">
+</p>
+<p align="jusitify">
+  One in four people has been faced with a crisis or danger situation in which they were unable to get the help they needed, resulting in a moment of stress that put them at risk. This proportion is considerable, and shows the importance and impact that an application capable of providing them with the information they need quickly and accurately could have.  In particular, users described their wish to know where to find assembly points in the event of a natural disaster (e.g. a volcanic eruption), where to find a doctor, or information on what to do in the event of poisoning or other illnesses. 
+local alerts and suggestions for alternative routes or nearby hotels in case of need, local emergency numbers for contacting the police, warnings about the season (e.g. monsoon in Southeast Asia), translation of evacuation plans in case of language barriers, and maps showing safe areas or areas to be avoided.
 </p><br>
+
 <p align="center">
-  <img src="assets/form/essentialfeature.png" alt="essentialfeature.png" widht="500">
-</p><br>
+  <img src="assets/form/interface1.png" alt="who" width="600">
+</p>
+<p align="jusitify">
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/crisis.png" alt="crisis.png" widht="500">
-</p><br>
+  <img src="assets/form/interface2.png" alt="interface2.png" width="600">
+</p>
+<p align="jusitify">
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/yescrisis.png" alt="yescrisis.png" widht="500">
-</p><br>
+  <img src="assets/form/interface3.png" alt="interface3.png" width="600">
+</p>
+<p align="jusitify">
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/interface1.png" alt="who" widht="500">
-</p><br>
+  <img src="assets/form/morefeat1.png" alt="morefeat1.png" width="600">
+</p>
+<p align="jusitify">
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/interface2.png" alt="interface2.png" widht="500">
-</p><br>
+  <img src="assets/form/morefeat2.png" alt="morefeat2.png" width="600">
+</p>
+<p align="jusitify">
+</p><br><br>
+
 <p align="center">
-  <img src="assets/form/interface3.png" alt="interface3.png" widht="500">
-</p><br>
-<p align="center">
-  <img src="assets/form/morefeat1.png" alt="morefeat1.png" widht="500">
-</p><br>
-<p align="center">
-  <img src="assets/form/morefeat2.png" alt="morefeat2.png" widht="500">
-</p><br>
-<p align="center">
-  <img src="assets/form/morefeat3.png" alt="morefeat3.png" widht="500">
-</p><br>
+  <img src="assets/form/morefeat3.png" alt="morefeat3.png" width="600">
+</p>
+<p align="jusitify">
+</p><br><br>
+
 
 ### App Name
 <p align="justify">
