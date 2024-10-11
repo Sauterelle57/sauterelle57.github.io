@@ -30,7 +30,67 @@ Before I started thinking about my app design, I researched existing apps to und
 </p>
 <br>
 
+<p align="jusitify">
+I soon realized that the fact that I only knew one travel app wasn't going to help me much when it came to creating my super app.
+It was more interesting for me to learn from my potential users and ask questions directly to travelers. So I devised a form that was simple and short enough to get as many answers as possible without losing the attention of the people being questioned.
+  <br>
+I made the form on google form, which seemed to me to be the easiest tool to use and perfectly suited my needs.
+I then thought about the best way to get answers from people concerned by my problem. And I finally decided to send the form to a server gathering travelers on the discord social network.
+  <br><br>
+You can find the results of my survey below.
+</p>
 
+<p align="center">
+  <img src="assets/form/who.png" alt="who.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/howold.png" alt="howold.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/timetravel.png" alt="timetravel.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/type.png" alt="type.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/stressful.png" alt="stressful.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/information.png" alt="information.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/useapp.png" alt="useapp.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/yesapp.png" alt="yesapp.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/essentialfeature.png" alt="essentialfeature.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/crisis.png" alt="crisis.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/yescrisis.png" alt="yescrisis.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/interface1.png" alt="who" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/interface2.png" alt="interface2.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/interface3.png" alt="interface3.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/morefeat1.png" alt="morefeat1.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/morefeat2.png" alt="morefeat2.png" widht="500">
+</p><br>
+<p align="center">
+  <img src="assets/form/morefeat3.png" alt="morefeat3.png" widht="500">
+</p><br>
 
 ### App Name
 <p align="justify">
