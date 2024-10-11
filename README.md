@@ -40,6 +40,9 @@ I then thought about the best way to get answers from people concerned by my pro
 You can find the results of my survey below.
 </p><br>
 
+<h3>
+  ❓ Who are the users?
+</h3>
 <p align="center">
   <img src="assets/form/who.png" alt="who.png" width="500">
   <img src="assets/form/howold.png" alt="howold.png" width="500">
@@ -49,6 +52,9 @@ You can find the results of my survey below.
 There is a slight gender balance, with a majority of men taking part.
 </p><br><br>
 
+<h3>
+  ❓ What are their travels?
+</h3>
 <p align="center">
   <img src="assets/form/timetravel.png" alt="timetravel.png" width="500">
   <img src="assets/form/type.png" alt="type.png" width="500">
@@ -59,6 +65,9 @@ Pleasure” and ‘Business’ seem to be the most popular types of trip, closel
 There is also a good balance between those who prefer to travel solo, with family, or for business reasons.
 </p><br><br>
 
+<h3>
+  ❓ What is stressful?
+</h3>
 <p align="center">
   <img src="assets/form/stressful.png" alt="stressful.png" width="600">
 </p>
@@ -68,6 +77,9 @@ Managing visas and documentation is also a major concern, especially for those t
 Cultural and linguistic differences also pose significant challenges for respondents, as does the search for interesting local activities.
 </p><br><br>
 
+<h3>
+  ❓ How are they planning their trips?
+</h3>
 <p align="center">
   <img src="assets/form/information.png" alt="information.png" width="600">
 </p>
@@ -77,9 +89,14 @@ Family/friends and travel agencies remain reliable sources, although less freque
 There's a relatively even split between those who use travel apps and those who don't.
 </p><br><br>
 
+<h3>
+  ❓ Do they use applications?
+</h3>
 <p align="center">
-  <img src="assets/form/useapp.png" alt="useapp.png" width="500">
-  <img src="assets/form/yesapp.png" alt="yesapp.png" width="500">
+  <img src="assets/form/useapp.png" alt="useapp.png" width="600">
+</p>
+<p align="center">
+  <img src="assets/form/whichapp.png" alt="yesapp.png" width="600">
 </p>
 <p align="jusitify">
   According to the results, respondents used <strong>Opodo, Airbnb, Booking, Google Flights, Trip.com.</strong> for booking flights and accommodation, 
@@ -89,20 +106,27 @@ Deepl for interactions in other languages and translations.
 and finally: Instagram for discovering new destinations, and access to special offers.
 </p><br><br>
 
+
+<h3>
+  ❓ What is essential for them?
+</h3>
 <p align="center">
   <img src="assets/form/essentialfeature.png" alt="essentialfeature.png" width="600">
 </p>
 <p align="jusitify">
   Among the most important features mentioned by survey participants were: <br>
-  - Flight booking: Sought-after for air travel planning.<br>
-  - Hotel search: Useful for accommodation.<br>
-  - Safety alerts: Essential for keeping abreast of local risks.<br>
-  - Itinerary management: Helps organize travel and activities during the trip.<br>
-  - Special offers and discounts: Attract travelers to take advantage of discounted prices.<br>
-  - Destination information: Information on places to visit, customs and other local information.<br>
-  - Discussions with other travelers: Encourage the exchange of experiences and advice with other users.
+  - <strong>Flight booking:</strong> Sought-after for air travel planning.<br>
+  - <strong>Hotel search:</strong> Useful for accommodation.<br>
+  - <strong>Safety alerts:</strong> Essential for keeping abreast of local risks.<br>
+  - <strong>Itinerary management:</strong> Helps organize travel and activities during the trip.<br>
+  - <strong>Special offers and discounts:</strong> Attract travelers to take advantage of discounted prices.<br>
+  - <strong>Destination information:</strong> Information on places to visit, customs and other local information.<br>
+  - <strong>Discussions with other travelers:</strong> Encourage the exchange of experiences and advice with other users.
 </p><br><br>
 
+<h3>
+  ❓ Have they ever encountered a crisis situation?
+</h3>
 <p align="center">
   <img src="assets/form/crisis.png" alt="crisis.png" width="600">
 </p>
@@ -114,40 +138,52 @@ and finally: Instagram for discovering new destinations, and access to special o
 local alerts and suggestions for alternative routes or nearby hotels in case of need, local emergency numbers for contacting the police, warnings about the season (e.g. monsoon in Southeast Asia), translation of evacuation plans in case of language barriers, and maps showing safe areas or areas to be avoided.
 </p><br>
 
-<p align="center">
-  <img src="assets/form/interface1.png" alt="who" width="600">
-</p>
-<p align="jusitify">
-</p><br><br>
 
+<h3>
+  ❓ What kind of interfaces are they looking for?
+</h3>
 <p align="center">
-  <img src="assets/form/interface2.png" alt="interface2.png" width="600">
+  <img src="assets/form/interface1.png" alt="interface1.png" width="500">
+</p>
+<p align="center">
+  <img src="assets/form/interface2.png" alt="interface2.png" width="500">
+</p>
+<p align="center">
+  <img src="assets/form/interface3.png" alt="interface3.png" width="500">
 </p>
 <p align="jusitify">
-</p><br><br>
+  According to the results, the most important features for an interface according to survey participants are:<br>
 
-<p align="center">
-  <img src="assets/form/interface3.png" alt="interface3.png" width="600">
-</p>
-<p align="jusitify">
-</p><br><br>
+- <strong>Simplicity:</strong> A clear, uncluttered, easy-to-understand interface is a priority for most users.<br>
+- <strong>Intuitive navigation:</strong> The application should be easy to navigate, with critical information quickly accessible.<br>
+- <strong>Visual appeal:</strong> A visually appealing interface is also important, while remaining functional and not overloaded.<br>
+- <strong>Accessibility:</strong> Users are looking for an interface with good legibility (e.g. sufficiently large text) and information that is easy to consult without effort.<br>
+- <strong>Information first:</strong> The application needs to highlight essential information such as flight or itinerary details, making them easy to find.<br>
+- <strong>Ergonomic design:</strong> An ergonomic interface that reduces the need for numerous manipulations and displays notifications discreetly.<br><br>
+In short, users want an interface that is simple, visually appealing, intuitive and that highlights important information without cluttering the user up with too many details or unnecessary features.
+</p><br><br><br>
 
+<h3>
+  ❓ What features do they want to use?
+</h3>
 <p align="center">
-  <img src="assets/form/morefeat1.png" alt="morefeat1.png" width="600">
+  <img src="assets/form/morefeat1.png" alt="morefeat1.png" width="500">
+</p>
+<p align="center">
+  <img src="assets/form/morefeat2.png" alt="morefeat2.png" width="500">
+</p>
+<p align="center">
+  <img src="assets/form/morefeat3.png" alt="morefeat3.png" width="500">
 </p>
 <p align="jusitify">
-</p><br><br>
+  Users suggested a variety of complementary services that could enrich a travel app, with a focus on practicality and enhancing the experience. For exemple:<br><br>
 
-<p align="center">
-  <img src="assets/form/morefeat2.png" alt="morefeat2.png" width="600">
-</p>
-<p align="jusitify">
-</p><br><br>
-
-<p align="center">
-  <img src="assets/form/morefeat3.png" alt="morefeat3.png" width="600">
-</p>
-<p align="jusitify">
+- <strong>Practical tools:</strong> currency and local unit converter, real-time weather forecast before and during the trip, as well as a flight price comparator. These tools will help travelers prepare better and save money.<br>
+- <strong>Security and assistance:</strong> security alerts, a map of dangerous areas to avoid, quick access to local emergency numbers, and information on visa and passport procedures. These features will ensure greater security and better preparedness in the event of a crisis.<br>
+- <strong>Local and social recommendations:</strong> Authentic advice on local activities, restaurants and events, chat with other travelers or locals, and the ability to share or view photos of other users. These services would encourage discovery and social interaction while traveling.<br>
+- <strong>Reservation services:</strong> booking cabs on arrival, local guides, and re-booking options in case of flight cancellation. These services would facilitate logistics during the trip.<br>
+- <strong>Personalization and adaptation:</strong> The application could adapt to the different stages of the trip, offer personalized recommendations and enable users to save and share their favorite places or tips.<br>
+In short, users want practical, personalized services that facilitate logistical aspects (booking, insurance, conversion) while offering reliable local information and safety tools (maps of dangerous areas, alerts). They are also looking for a social and interactive dimension, with ways to connect with other travelers and locals.
 </p><br><br>
 
 
