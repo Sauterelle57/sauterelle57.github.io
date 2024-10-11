@@ -69,7 +69,7 @@ I was then able to create a user flow to understand the different steps a user w
 </p>
 <br>
 <p align="center">
-  <img src="assets/user_flow.jpg" alt="User_Flow">
+  <img src="assets/user_flow.jpg" alt="User_Flow" height="1400">
 </p>
 <br>
 
@@ -240,12 +240,43 @@ This process allowed me to test the visual impact of each option. In the end, I 
 
 ### Font
 <br>
-<p align="center">
-  <img src="assets/fonts/Afacad Flux.png" alt="logo" height="400">
-  <img src="assets/fonts/Aptos.png" alt="logo" height="400">
-  <img src="assets/fonts/Jost.png" alt="logo" height="400">
-  <img src="assets/fonts/Noto Sans Oriya.png" alt="logo" height="400">
-  <img src="assets/fonts/Raleway.png" alt="logo" height="400">
+<p align="justify">
+To choose the right font for my application, I evaluated several options based on essential criteria such as legibility, aesthetics and consistency with the application's image. My goal was to find a font that was modern, elegant and easy to read on a mobile interface.
+</p>
+<p align="justify">
+  <strong>Afacad Flux<br></strong>
+This sans-serif font is both elegant and lightweight, making it attractive for headings and subheadings. However, its thinness can sometimes impair legibility on small screens, especially when text is reduced.
+</p>
+<p align="left">
+  <img src="assets/fonts/Afacad Flux.png" alt="logo" height="200">
+</p>
+<p align="justify">
+  <strong>Aptos<br></strong>
+Although this font offers excellent support for non-Latin characters, it's not as suitable for a predominantly Latin-script application. It didn't match the modern visual universe I wanted to create.
+</p>
+<p align="left">
+  <img src="assets/fonts/Aptos.png" alt="logo" height="200">
+</p>
+<p align="justify">
+  <strong>Jost<br></strong>
+This font stands out for its balance between modernity and legibility. Its clean, rounded design adds a warm touch while remaining highly legible, even at smaller sizes. It adapts well to the different types of content in the application, whether for titles, subtitles or body text.
+</p>
+<p align="left">
+  <img src="assets/fonts/Jost.png" alt="logo" height="200">
+</p>
+<p align="justify">
+  <strong>Noto Sans Oriya<br></strong>
+Although this font was very unique and stylish, it lacked versatility for everyday use in an application. It could have worked in a very specific context, but risked detracting from the user experience due to its complex shape.
+</p>
+<p align="left">
+  <img src="assets/fonts/Noto Sans Oriya.png" alt="logo" height="200">
+</p>
+<p align="justify">
+  <strong>Raleway<br></strong>
+Modern and slightly geometric, Aptos has excellent potential for an application interface. Its clarity and balanced character make it ideal for long texts, but it lacked the distinctive look required to reflect the serenity of travel.
+</p>
+<p align="left">
+  <img src="assets/fonts/Raleway.png" alt="logo" height="200">
 </p>
 <br>
 
