@@ -82,7 +82,7 @@ Storyboarding helped me to understand not only the user's actions, but also the 
 <br>
 
 ## ✏️ Sketches
-<p align="justify>
+<p align="justify">
 I created sketches to lay the initial visual foundations of the application. They enabled me to quickly translate my ideas into concrete sketches, in order to visualize the layout of elements and the arrangement of different interfaces. This process helped me to explore several concepts without being limited by technical details, and to test different configurations before moving on to more detailed mock-ups.
 <br>
 By sketching out these initial ideas, I was able to concentrate on the essentials: functionality and fluidity of the user experience. These sketches served as a guide throughout the visual development, ensuring that the aesthetic choices made respected the application's initial objective.
@@ -90,6 +90,7 @@ By sketching out these initial ideas, I was able to concentrate on the essential
 <br>
 
 ## 🖼️ Wireframes
+
 <p align="justify">
 I created wireframes to define the basic structure of my application before getting into the visual details. Wireframes allowed me to focus on the hierarchy of information, the placement of elements and overall navigation without worrying about aesthetic aspects at this stage. They were essential for testing and validating the layout of functionalities, ensuring that the application was intuitive and easy to use.
 <br>
