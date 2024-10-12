@@ -256,11 +256,24 @@ Storyboarding helped me to understand not only the user's actions, but also the 
 
 ## ✏️ Sketches
 <p align="justify">
-I created sketches to lay the initial visual foundations of the application. They enabled me to quickly translate my ideas into concrete sketches, in order to visualize the layout of elements and the arrangement of different interfaces. This process helped me to explore several concepts without being limited by technical details, and to test different configurations before moving on to more detailed mock-ups.
-<br>
-By sketching out these initial ideas, I was able to concentrate on the essentials: functionality and fluidity of the user experience. These sketches served as a guide throughout the visual development, ensuring that the aesthetic choices made respected the application's initial objective.
+To begin my creative process, I decided to produce sketches by hand on paper. This approach enabled me to quickly visualize how my ideas might take shape, and to explore different design possibilities without being restricted by digital tools. These initial sketches provided the basis for my first ideas about the application's structure and navigation.<br>
+By sketching out these initial ideas, I was able to concentrate on the essentials: functionality and fluidity of the user experience. These sketches served as a guide throughout the visual development, ensuring that the aesthetic choices made respected the application's initial objective.<br><br>
+  However, these sketches are not entirely faithful to the final result, as my ideas evolved throughout the design process. Working on the details and taking into account user feedback, I adjusted certain elements to improve the user experience and make the interface more intuitive and coherent. In this way, the design process enabled me to transform these initial drafts into a more mature version, adapted to users' needs.
 </p>
-<br>
+
+<p align="center">
+  <img src="assets/sketches.jpg" alt="sketches.jpg" width="50%">
+</p>
+<p align="justify">
+On the first page you can see 4 different screens, the login page, the map which is the main page, the preview of a destination and finally a more detailed view of the information on a destination with important information on the conditions there and the risks. 
+</p><br>
+
+<p align="center">
+  <img src="assets/sketches2.jpg" alt="sketches.jpg" width="50%">
+</p>
+<p align="justify">
+The second page shows the special offer screens, the profile page, the saved and completed trips, and the alerts page.</p>
+<br><br>
 
 ## 🖼️ Wireframes
 
