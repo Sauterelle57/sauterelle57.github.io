@@ -244,13 +244,12 @@ I was then able to create a user flow to understand the different steps a user w
 
 ## 📖 Story Board
 <p align="justify">
-I designed a storyboard to illustrate the user journey in a visual and narrative way. This tool enabled me to tell the story of the user as he interacts with the application, showing how he moves from one stage to the next. Through visual scenarios, I was able to identify the emotions and potential reactions of the user at different moments in his experience.
+I also created a short storyboard featuring Aiko, a young software engineer using the application for the first time. The storyboard illustrates the various stages of her interaction with the application, from opening it to completing her main task, which is to plan her next trip.
 <br>
-Storyboarding helped me to understand not only the user's actions, but also the motivations and obstacles he might encounter when using the application. By narrating these key moments, I was able to fine-tune the design and ensure that each feature corresponded to the real needs and expectations of users.
-</p>
+The aim of this storyboard was to show in concrete terms how Aiko, as a typical user, navigates the application, discovers its functionalities and interacts with the interface. </p>
 <br>
 <p align="center">
-  <img src="assets/story_board.png" alt="Story_Board">
+  <img src="assets/storyboard.jpg" alt="Story_Board">
 </p>
 <br>
 
