@@ -47,7 +47,7 @@ You can find the results of my survey below.
   <img src="assets/form/who.png" alt="who.png" width="500">
   <img src="assets/form/howold.png" alt="howold.png" width="500">
 </p>
-<p align="jusitify">
+<p align="justify">
   As can be seen from the results, there is a good diversity of age groups, but the majority of responses come from the 18-25 and 26-35 age groups.
 There is a slight gender balance, with a majority of men taking part.
 </p><br><br>
@@ -59,7 +59,7 @@ There is a slight gender balance, with a majority of men taking part.
   <img src="assets/form/timetravel.png" alt="timetravel.png" width="500">
   <img src="assets/form/type.png" alt="type.png" width="500">
 </p>
-<p align="jusitify">
+<p align="justify">
   The majority of respondents travel between 1 and 3 times a year.
 Pleasure” and ‘Business’ seem to be the most popular types of trip, closely followed by ‘Adventure’.
 There is also a good balance between those who prefer to travel solo, with family, or for business reasons.
@@ -71,7 +71,7 @@ There is also a good balance between those who prefer to travel solo, with famil
 <p align="center">
   <img src="assets/form/stressful.png" alt="stressful.png" width="600">
 </p>
-<p align="jusitify">
+<p align="justify">
   Staying within budget is the most frequently cited aspect, underlining the importance for many travellers of managing their finances while on the move.
 Managing visas and documentation is also a major concern, especially for those traveling internationally.
 Cultural and linguistic differences also pose significant challenges for respondents, as does the search for interesting local activities.
@@ -83,7 +83,7 @@ Cultural and linguistic differences also pose significant challenges for respond
 <p align="center">
   <img src="assets/form/information.png" alt="information.png" width="600">
 </p>
-<p align="jusitify">
+<p align="justify">
     Websites are the most common source of information for planning trips, followed by social media and traveler forums.
 Family/friends and travel agencies remain reliable sources, although less frequently mentioned.
 There's a relatively even split between those who use travel apps and those who don't.
@@ -98,7 +98,7 @@ There's a relatively even split between those who use travel apps and those who 
 <p align="center">
   <img src="assets/form/whichapp.png" alt="yesapp.png" width="600">
 </p>
-<p align="jusitify">
+<p align="justify">
   According to the results, respondents used <strong>Opodo, Airbnb, Booking, Google Flights, Trip.com.</strong> for booking flights and accommodation, 
 Google Maps. for route planning and transportation 
 for special offers: mainly on platforms such as Airbnb and for flight searches. 
@@ -113,7 +113,7 @@ and finally: Instagram for discovering new destinations, and access to special o
 <p align="center">
   <img src="assets/form/essentialfeature.png" alt="essentialfeature.png" width="600">
 </p>
-<p align="jusitify">
+<p align="justify">
   Among the most important features mentioned by survey participants were: <br>
   - <strong>Flight booking:</strong> Sought-after for air travel planning.<br>
   - <strong>Hotel search:</strong> Useful for accommodation.<br>
@@ -133,7 +133,7 @@ and finally: Instagram for discovering new destinations, and access to special o
 <p align="center">
   <img src="assets/form/yescrisis.png" alt="yescrisis.png" width="600">
 </p>
-<p align="jusitify">
+<p align="justify">
   One in four people has been faced with a crisis or danger situation in which they were unable to get the help they needed, resulting in a moment of stress that put them at risk. This proportion is considerable, and shows the importance and impact that an application capable of providing them with the information they need quickly and accurately could have.  In particular, users described their wish to know where to find assembly points in the event of a natural disaster (e.g. a volcanic eruption), where to find a doctor, or information on what to do in the event of poisoning or other illnesses. 
 local alerts and suggestions for alternative routes or nearby hotels in case of need, local emergency numbers for contacting the police, warnings about the season (e.g. monsoon in Southeast Asia), translation of evacuation plans in case of language barriers, and maps showing safe areas or areas to be avoided.
 </p><br>
@@ -151,7 +151,7 @@ local alerts and suggestions for alternative routes or nearby hotels in case of 
 <p align="center">
   <img src="assets/form/interface3.png" alt="interface3.png" width="500">
 </p>
-<p align="jusitify">
+<p align="justify">
   According to the results, the most important features for an interface according to survey participants are:<br>
 
 - <strong>Simplicity:</strong> A clear, uncluttered, easy-to-understand interface is a priority for most users.<br>
@@ -175,7 +175,7 @@ In short, users want an interface that is simple, visually appealing, intuitive 
 <p align="center">
   <img src="assets/form/morefeat3.png" alt="morefeat3.png" width="500">
 </p>
-<p align="jusitify">
+<p align="justify">
   Users suggested a variety of complementary services that could enrich a travel app, with a focus on practicality and enhancing the experience. For exemple:<br><br>
 
 - <strong>Practical tools:</strong> currency and local unit converter, real-time weather forecast before and during the trip, as well as a flight price comparator. These tools will help travelers prepare better and save money.<br>
